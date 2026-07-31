@@ -141,3 +141,17 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Replit configurations
+.replit
+replit.nix
+.pm2/
+package-lock.json
+
+# Browser and System clutter
+.DS_Store
+Thumbs.db
+
+# Future-proofing: Local environment secrets (Crucial for later!)
+.env
+.env.local
