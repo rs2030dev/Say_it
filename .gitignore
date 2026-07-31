@@ -155,3 +155,10 @@ Thumbs.db
 # Future-proofing: Local environment secrets (Crucial for later!)
 .env
 .env.local
+
+# Session keys and production secrets
+.env
+.env.production
+.env.local
+.secret
+secrets.json
