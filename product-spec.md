@@ -1,10 +1,10 @@
-# Product Specification & Clinical Framework: Say_it
+# Product Specification & Clinical Framework: Say it
 
 ## 1. Executive Summary & Clinical Intent
-`Say_it` is a specialized digital health and assistive technology tool built with an accessibility-first philosophy to facilitate action-verb learning for neurodivergent children (ages 5–7, Autism Spectrum Disorder). By pairing clinical speech therapy methodologies with a low-sensory user interface, the application bridges the gap between structured clinical intervention and digital engagement.
+`Say it` is a specialized digital health and assistive technology tool built with an accessibility-first philosophy to facilitate action-verb learning for neurodivergent children (ages 3–7, Autism Spectrum Disorder). By pairing clinical speech therapy methodologies with a low-sensory user interface, the application bridges the gap between structured clinical intervention and digital engagement.
 
 ### Core Value Proposition
-Traditional language apps rely on high-stimulus gamification (heavy animations, loud rewards) that frequently induce sensory overload or distraction in autistic children. `Say_it` prioritizes absolute predictability, zero latency, and minimal visual noise to isolate the target educational concept: **action verbs**.
+Traditional language apps rely on high-stimulus gamification (heavy animations, loud rewards) that frequently induce sensory overload or distraction in autistic children. `Say it` prioritizes absolute predictability, zero latency, and minimal visual noise to isolate the target educational concept: **action verbs**.
 
 ## 2. Clinical Speech Methodology
 The application integrates established behavioral and communication frameworks tailored for pediatric speech acquisition:
