@@ -1,7 +1,7 @@
 # Technical Architecture & State Management
 
 ## 1. Frontend System Architecture
-`Say_it` is engineered as an ultra-lightweight, client-side application utilizing a modern frontend stack built inside a production-optimized container tree.
+`Say it` is engineered as an ultra-lightweight, client-side application utilizing a modern frontend stack built inside a production-optimized container tree.
 
 ### Core Stack
 * **Build Tooling:** Vite (configured for rapid, zero-overhead client bundling)
