@@ -24,7 +24,7 @@ The interface design of `Say_it` actively rejects standard commercial gamificati
 * **Spatial Breathing Room:** White space accounts for over 45% of total screen real estate, forcing visual focus entirely onto the action cards.
 
 ## 2. Target Interaction Design & Motor Controls
-Children aged 5–7, particularly those with neurodivergent development tracks, display variable fine motor precision. 
+Children aged 3–7, particularly those with neurodivergent development tracks, display variable fine motor precision. 
 
 * **Hitbox Maximization:** Click and touch points extend past the visible boundaries of UI buttons using hidden transparent padding.
 * **Accidental Click Rejection:** Micro-debounce algorithms protect the interface from accidental double-tapping, preventing unintended state navigation or rapid screen skips.
