@@ -1,6 +1,6 @@
 # Project Governance & Accessibility Matrix
 
-This matrix establishes cross-functional ownership, complexity mapping, and strict accessibility guardrails for the `Say_it` digital health application, optimizing for neurodivergent engagement (ages 3–7, ASD).
+This matrix establishes cross-functional ownership, complexity mapping, and strict accessibility guardrails for the `Say it` digital health application, optimizing for neurodivergent engagement (ages 3–7, ASD).
 
 ## 1. Cross-Functional Governance Matrix
 
