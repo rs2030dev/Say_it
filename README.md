@@ -80,7 +80,7 @@ The layout and responsive viewports for `Say it` have been custom-engineered to 
 
 ### 🌟 For Everyday Users (Parents, Teachers, & Allied Health)
 You do not need to install any software, run terminal commands, or create an account to use this tool.
-1. Click the live application link at the top of this repository: **[Try it yourself: Launch the live low-sensory interface](INSERT_LIVE_APPLICATION_LINK_HERE)**
+1. Click the live application link: **https://asset-manager-ags12.replit.app/**
 2. The application will immediately load the main workspace canvas in your browser.
 3. Tap or click the visual action cards to trigger the corresponding speech audio loops. 
 4. To reset or end a session, simply close the browser tab.
