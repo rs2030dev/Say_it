@@ -22,7 +22,7 @@ Furthermore, unlike commercial educational software that relies on high-stimulus
 ## 🚀 Interactive Demo & Visual Previews
 
 ### 🎬 Product Demo Video
-[Coming Soon!]
+https://github.com/user-attachments/assets/f4c1aed7-d00b-4864-a2e9-83ed71fff373
 
 
 ---
