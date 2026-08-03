@@ -1,7 +1,11 @@
 # Say it!
 # Say it: A Low-Sensory Digital Health Tool for Pediatric Speech Acquisition
-
 🚀 **Try it yourself: https://asset-manager-ags12.replit.app/**
+
+### 📸 Technical & UX Screenshots
+**Main Canvas View:**
+   <img width="2832" height="1519" alt="image" src="https://github.com/user-attachments/assets/2637b874-6c81-4bbc-b3f0-a1fe5f438441" />
+
 
 ## 📌 Executive Summary & Product Vision
 `Say it` is an accessibility-first assistive technology platform designed to facilitate action-verb learning for neurodivergent pediatric populations (specifically children ages 3–7 on the Autism Spectrum). While traditional speech therapy frequently relies on static, paper-based core vocabulary boards to facilitate communication, these physical boards are inherently silent and cannot model speech in real time. This leaves a significant developmental gap for non-verbal or minimally verbal learners who require immediate acoustic feedback to map sounds to actions. `Say it` bridges this gap by introducing isolated, high-fidelity audio reinforcement directly tied to visual action verbs. 
@@ -25,19 +29,6 @@ Furthermore, unlike commercial educational software that relies on high-stimulus
     1. A silent 5-second walkthrough demonstrating the initial UI layout to highlight the static, low-sensory design.
     2. A demonstration of an interaction click, showing the zero-latency transition and the execution of the action-verb audio loop.
     3. A view showing the non-punitive error management system (e.g., clicking off-target decaying silently without flashing or error sound cues).
-
-### 📸 Technical & UX Screenshots
-*For a highly polished portfolio layout, upload and drop the following screenshots right here:*
-
-1. **[Insert Main Canvas View Screenshot Here]**
-   * *Visual Target:* The primary interface showing the central action card, muted palette choices, and prominent whitespace allocation.
-2. **[Insert Responsive Device Layout Mockup Here]**
-   * *Visual Target:* Side-by-side view showing the application executing across desktop and mobile screens to showcase fluid viewport boundaries.
-3. **[Insert Component Code Snippet or Architecture Flow Map Here]**
-   * *Visual Target:* A code window highlighting type-safe component properties or the state system.
-
-
-
 ---
 ## 🛠️ Integrated Strategic Foundations
 
