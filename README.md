@@ -2,8 +2,6 @@
 # Say it: A Low-Sensory Digital Health Tool for Pediatric Speech Acquisition
 🚀 **Try it yourself: https://asset-manager-ags12.replit.app/**
 
-### 📸 Technical & UX Screenshots
-**Main Canvas View:**
    <img width="2832" height="1519" alt="image" src="https://github.com/user-attachments/assets/2637b874-6c81-4bbc-b3f0-a1fe5f438441" />
 
 
