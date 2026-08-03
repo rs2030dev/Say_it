@@ -68,11 +68,13 @@ Since `Say it` is designed as a clinical assistive tool for pediatric population
 
 
 ## ⚙️ Target Device & Form Factor Support
-*The layout and responsive viewports for `Say it` have been custom-engineered to fully optimize execution across the following targeted digital profiles:*
+The layout and responsive viewports for `Say it` have been custom-engineered to fully optimize execution across the following targeted digital profiles:
 
-* **[Write Device Size/Specification 1 Here]** - *e.g., Apple iPad / Android Tablet (10.2" - 11") in Landscape mode: Optimized for standard clinic desktop and table-top therapy setups.*
-* **[Write Device Size/Specification 2 Here]** - *e.g., Mobile viewports (iPhone 14/15, Samsung Galaxy): Configured with enlarged click hitboxes to prevent accidental tap slips when used on smaller consumer hardware.*
-* **[Write Device Size/Specification 3 Here]** - *e.g., Desktop browsers (Chrome/Safari >= 1200px width): Standard layout scaling with bounded component maximum widths to maintain whitespace distribution.*
+* **Compact Mobile Viewports (iPhone SE, Pixel 10):** Engineered with localized component scaling and enhanced tap target clearance to maximize interaction precision on smaller consumer screens.
+* **Standard & Premium Smartphones (iPhone 17 / 17 Pro, Pixel 10 Pro, Samsung Galaxy S25 / S25+):** Optimized for standard mobile aspect ratios, ensuring zero layout fragmentation and maintaining a highly structured visual grid.
+* **Max-Scale Mobile Displays (iPhone Pro Max, Pixel 10 Pro XL, Samsung Galaxy S25 Ultra):** Outfitted with enlarged interaction hitboxes to prevent accidental motor-control slips on expansive handheld screen configurations.
+* **Clinical & Tabletop Tablet Viewports (iPad Air / Multi-touch Tablets):** Configured for both landscape and portrait configurations to perfectly support tabletop speech-language pathology (SLP) environments and active clinical therapy sessions.
+* **Full-Size & 16:9 Desktop Monitors (Chrome / Safari / Firefox >= 1200px width):** Implements fluid layout scaling with strictly bounded component maximum widths to preserve clean whitespace distribution and prevent sensory-fatiguing visual stretching.
 
 ---
 
