@@ -20,13 +20,9 @@ Furthermore, unlike commercial educational software that relies on high-stimulus
 ## 🚀 Interactive Demo & Visual Previews
 
 ### 🎬 Product Demo Video
-[Insert Demo Video Embed/Link Here]
+[Coming Soon!]
 
-*   **GitHub Native Video Support:** You can drop an `.mp4` or `.mov` file directly into the GitHub README editor window. GitHub will automatically upload it to their asset servers and render an interactive video player inside your repository page.
-*   **What your Demo Video should include:** 
-    1. A silent 5-second walkthrough demonstrating the initial UI layout to highlight the static, low-sensory design.
-    2. A demonstration of an interaction click, showing the zero-latency transition and the execution of the action-verb audio loop.
-    3. A view showing the non-punitive error management system (e.g., clicking off-target decaying silently without flashing or error sound cues).
+
 ---
 ## 🛠️ Integrated Strategic Foundations
 
